@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=68.0.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ai-mysql-translator"
+version = "2025.12.21101721"
+description = "A new package enables AI systems to securely interact with MySQL databases by translating natural language queries into structured SQL commands. It processes user text input to generate safe, validate"
+readme = "README.md"
+authors = [{ name = "ai-mysql-translator", email = "hi@eugene.plus" }]
+requires-python = ">=3.9"
+dependencies = [
+  "langchain-llm7>=0.0.0",
+  "llmatch-messages>=0.0.0",
+  "langchain-core>=0.3.0",
+]
+license = { text = "MIT" }
+
+[project.urls]
+Homepage = "https://github.com/chigwell/ai-mysql-translator"
